@@ -11,11 +11,11 @@ const Details = (props) => {
             <div>
                 <img className="student-image" src={img} alt="" />
 
-                <h3>Name:{name}</h3>
-                <h4>University:{university}</h4>
-                <p>Waiver:{waiver}</p>
-                <p>Adress:{address}</p>
-                <p><small>Id:{id}</small></p>
+                <h3>Name: {name}</h3>
+                <h4>University: {university}</h4>
+                <p>Waiver: {waiver}</p>
+                <p>Adress: {address}</p>
+                <p><small>Id: {id}</small></p>
                 <button onClick={() => props.handleEvent(props.student)} className="cart-button">{icon}  Add to group</button>
             </div>
         </div>
