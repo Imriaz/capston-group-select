@@ -1,6 +1,6 @@
 # Start making groups for Capston Project
 
-This project is [capston group select](https://github.com/facebook/create-react-app).
+This project is [capston group select](https://group-select-imriaz.netlify.app/).
 
 ## About Capston group select
 • This is for Capstone group select
